@@ -69,64 +69,13 @@ body{
     margin-left: 2px;
 }
 
-.left{
-    display: inline-block;
-    width: 30%;
-    background-color: #20aae4;
+thead{
+    background-color: #24a7e4;
 }
 
-.center{
-    display: inline-block;
-    width: 30%;
-    background-color: #20aae4;
-}
-
-
-.right{
-    display: inline-block;
-    width: 30%;
-    background-color: #20aae4;
-}
-
-.left2{
-    display: inline-block;
-    width: 30%;
+.riga{
     background-color: #b1e5f2;
 }
-
-.center2{
-    display: inline-block;
-    width: 30%;
-    background-color: #b1e5f2;
-}
-
-
-.right2{
-    display: inline-block;
-    width: 30%;
-    background-color: #b1e5f2;
-}
-
-.left3{
-    display: inline-block;
-    width: 30%;
-    
-}
-
-.center3{
-    display: inline-block;
-    width: 30%;
-    
-}
-
-
-.right3{
-    display: inline-block;
-    width: 30%;
-    
-}
-
-
 
 
 
